@@ -1,0 +1,7 @@
+name: NoChatSignature
+version: '${version}'
+main: com.rafaelrc.nochatsignature.NoChatSignature
+api-version: 1.19
+prefix: NCS
+authors: [ rafaelrc ]
+description: Removes the player signature from sent messages.
